@@ -19,4 +19,4 @@ This project will utilize the following:
 -ViewPager
 
 
-You are welcome to use this code as a *reference* for your project, but please no plagiarism! Do not submit this project or a very slightly altered version and call it yours.
+You are welcome to use this code as a *reference* for your project, but please no plagiarism!
